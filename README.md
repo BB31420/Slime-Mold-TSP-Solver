@@ -3,7 +3,8 @@ This repository contains a Python implementation of a solver for the Traveling S
 
 * Slime Mold Algorithm
 * Nearest Neighbor Algorithm
-![solution](https://imgur.com/QVmGSAV)
+
+![solution](https://i.imgur.com/d4QqBqO.png)
 ## Table of Contents
 * Introduction
 * Requirements
